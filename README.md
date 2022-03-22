@@ -1,0 +1,2 @@
+# fasta_split
+将多个序列集合的fasta文件拆分为一个序列一个fasta文件
